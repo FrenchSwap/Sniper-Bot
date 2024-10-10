@@ -17,6 +17,7 @@ let provider
 let signer
 let uniswap
 
+// config.js
 const ACCOUNT = process.env.REACT_APP_ACCOUNT
 const TOKEN_ADDRESS = process.env.REACT_APP_TOKEN_ADDRESS
 const EXCHANGE_ADDRESS = process.env.REACT_APP_EXCHANGE_ADDRESS
